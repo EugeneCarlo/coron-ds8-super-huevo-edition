@@ -5,4 +5,4 @@
 Есть возможность расширения возможностей за счет дополнительных модулей с другими эффектами
 Модули эффектов буду добавлять по мере возможностей
  
-![izo](C:\Users\Юки\Documents\git\coron-ds8-super-huevo-edition\Image\YwKnsgYQ7no.jpg)
+![izo] (/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg?raw=true)
