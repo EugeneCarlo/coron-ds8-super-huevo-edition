@@ -7,3 +7,4 @@
 
 Модули эффектов буду добавлять по мере возможностей
  
+![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)
