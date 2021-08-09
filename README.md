@@ -5,6 +5,8 @@
 
 Есть возможность расширения возможностей за счет дополнительных модулей с другими эффектами
 
+Для использования синтезатора без эффектов, достаточно установить джампер на контакты с отметкой JUMP
+
 Модули эффектов буду добавлять по мере возможностей
 
  
@@ -12,10 +14,14 @@
 
 ## Ссылки на необходимые детали с алика:
 
-### [Потенциометры](https://aliexpress.ru/item/1871188517.html)
+#### [Потенциометры](https://aliexpress.ru/item/1871188517.html)
 
-### [Колесики](https://aliexpress.ru/item/4000702166610.html)
+#### [Колесики](https://aliexpress.ru/item/4000702166610.html)
 
-### [Тумблера](https://aliexpress.ru/item/32723119383.html)
+#### [Тумблера](https://aliexpress.ru/item/32723119383.html)
 
-### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
+#### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
+
+
+### Пример комплекта плат, которые должны получиться:
+![Пример плат](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/F3CKZTPLIhw.jpg)
