@@ -25,3 +25,5 @@
 
 ### Пример комплекта плат, которые должны получиться:
 ![Пример плат](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/F3CKZTPLIhw.jpg)
+
+В новой версии используется LM13700 вместо CA3080 в связи с малой доступность последней
