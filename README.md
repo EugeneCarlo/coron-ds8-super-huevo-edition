@@ -22,6 +22,10 @@
 
 #### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
 
+#### [Гнезда 6.3](https://www.chipdip.ru/product/st-008s-05)
+
+#### [Гнезда 3.5](https://www.chipdip.ru/product/st-215n-04)
+
 
 ### Пример комплекта плат, которые должны получиться:
 ![Пример плат](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/F3CKZTPLIhw.jpg)
