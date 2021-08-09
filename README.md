@@ -13,4 +13,6 @@
 ### Ссылки на необходимые детали с алика:
 
 [Потенциометры](https://aliexpress.ru/item/1871188517.html)
-
+[Колесики](https://aliexpress.ru/item/4000702166610.html)
+[Тумблера](https://aliexpress.ru/item/32723119383.html)
+[Кнопки](https://aliexpress.ru/item/4000224636043.html)
