@@ -10,9 +10,12 @@
  
 ![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)
 
-### Ссылки на необходимые детали с алика:
+## Ссылки на необходимые детали с алика:
 
-[Потенциометры](https://aliexpress.ru/item/1871188517.html)
-[Колесики](https://aliexpress.ru/item/4000702166610.html)
-[Тумблера](https://aliexpress.ru/item/32723119383.html)
-[Кнопки](https://aliexpress.ru/item/4000224636043.html)
+### [Потенциометры](https://aliexpress.ru/item/1871188517.html)
+
+### [Колесики](https://aliexpress.ru/item/4000702166610.html)
+
+### [Тумблера](https://aliexpress.ru/item/32723119383.html)
+
+### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
