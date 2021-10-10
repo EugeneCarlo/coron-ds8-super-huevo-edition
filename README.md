@@ -13,6 +13,8 @@
 
 ### [Как собрать](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20to%20assemble/README.md)
 
+### [Список комлектующих](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/BOM)
+
  
 ![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)<br>
 
