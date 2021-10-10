@@ -7,13 +7,12 @@
 
 Для использования синтезатора без эффектов, достаточно установить джампер на контакты с отметкой JUMP
 
-Модули с другими эффектами буду добавлять по мере возможностей
-
- 
-![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)
+Модули с другими эффектами буду добавлять по мере возможностей<br>
 
 #### [Как работает](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20it%20works/README.md)
 
+ 
+![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)
 
 
 
