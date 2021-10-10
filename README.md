@@ -9,7 +9,7 @@
 
 Модули с другими эффектами буду добавлять по мере возможностей<br>
 
-### [Как заказать плату](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20to%20get%20PCB/README.md)
+### [Как заказать плату](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/How%20to%20get%20PCB/README.md)
 
 ### [Как работает](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20it%20works/README.md)
 
