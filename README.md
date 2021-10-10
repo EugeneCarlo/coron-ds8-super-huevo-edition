@@ -9,26 +9,26 @@
 
 Модули с другими эффектами буду добавлять по мере возможностей<br>
 
-#### [Как работает](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20it%20works/README.md)
+### [Как работает](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20it%20works/README.md)
 
  
 ![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)
 
 
 
-#### Ссылки на необходимые детали с алика:
+##### Ссылки на необходимые детали с алика:
 
-### [Потенциометры](https://aliexpress.ru/item/1871188517.html)
+#### [Потенциометры](https://aliexpress.ru/item/1871188517.html)
 
-### [Колесики](https://aliexpress.ru/item/4000702166610.html)
+#### [Колесики](https://aliexpress.ru/item/4000702166610.html)
 
-### [Тумблера](https://aliexpress.ru/item/32723119383.html)
+#### [Тумблера](https://aliexpress.ru/item/32723119383.html)
 
-### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
+#### [Кнопки](https://aliexpress.ru/item/4000224636043.html)
 
-### [Гнезда 6.3 (ЧиД)](https://www.chipdip.ru/product/st-008s-05)
+#### [Гнезда 6.3 (ЧиД)](https://www.chipdip.ru/product/st-008s-05)
 
-### [Гнезда 3.5 (ЧиД)](https://www.chipdip.ru/product/st-215n-04)
+#### [Гнезда 3.5 (ЧиД)](https://www.chipdip.ru/product/st-215n-04)
 
 
 ### Пример комплекта плат, которые должны получиться:
