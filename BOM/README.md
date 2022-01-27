@@ -69,4 +69,4 @@
 | [Гнезда 6.3мм](https://www.chipdip.ru/product/st-008s-05) | ST-008 | 2 шт |
 
 
-#### EFX BOARD
+# EFX BOARD
