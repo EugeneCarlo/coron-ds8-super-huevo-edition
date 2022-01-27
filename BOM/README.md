@@ -59,14 +59,15 @@
 | [1M](https://aliexpress.ru/item/1871188517.html) | R0904-N | 2 шт |
 | [50k](https://aliexpress.ru/item/1871188517.html) | R0904-N | 6 шт |
 
-## Кнопки/Тумблера
+## Кнопки/Тумблера/Гнезда
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
 | [DC JACK](https://a.aliexpress.com/_9z3rrD) | DC-005 | 1 шт |
-| [Кнопка с индикацией](https://a.aliexpress.com/_9wfFIX) | TS-12 | 1 шт |
+| [Jack 3.5мм](https://www.chipdip.ru/product/st-215n-04) | ST-215N | 2 шт |
+| [Jack 6.3мм](https://www.chipdip.ru/product/st-008s-05) | ST-008 | 2 шт |
+| [Кнопка](https://a.aliexpress.com/_9wfFIX) | TS-12 | 1 шт |
 | [Тумблера](https://a.aliexpress.com/_Ap9OR9) | SS12D07VG4 | 2 шт |
-| [Гнезда 3.5мм](https://www.chipdip.ru/product/st-215n-04) | ST-215N | 2 шт |
-| [Гнезда 6.3мм](https://www.chipdip.ru/product/st-008s-05) | ST-008 | 2 шт |
+
 
 
 # EFX BOARD
