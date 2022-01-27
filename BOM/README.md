@@ -1,4 +1,4 @@
-#### MAIN BOARD
+# MAIN BOARD
 
 ## Резисторы
 
