@@ -13,6 +13,8 @@
 
 ### [Как собрать](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20to%20assemble/README.md)
 
+### [GERBER для заказа плат](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/PCB)
+
 ### [Список комлектующих](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/BOM)
 
  
