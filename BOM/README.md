@@ -42,7 +42,7 @@
 | [1n4148](https://a.aliexpress.com/_AchTzd) | DO-35 | 2 шт |
 | [2n3904](https://a.aliexpress.com/_9xh8vD) | TO-92 | 4 шт |
 | [L78M05](https://a.aliexpress.com/_AcvypD) | DDPAK | 1 шт |
-| [LED](https://www.chipdip.ru/product/gnl-3012hd) | Красный светодиод 3мм | 3 шт |
+| [3мм LED](https://www.chipdip.ru/product/gnl-3012hd) | Любого цвета | 1 шт |
 
 ## Микросхемы
 
