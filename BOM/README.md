@@ -49,7 +49,7 @@
 | Номинал | Описание | Количество |
 | ------ | ----------- | ----------- |
 | [LM324](https://a.aliexpress.com/_ArLX4b) | DIP-14 | 2 шт |
-| [LM741]https://a.aliexpress.com/_AODHgb) | DIP-8 | 1 шт |
+| [LM741](https://a.aliexpress.com/_AODHgb) | DIP-8 | 1 шт |
 | [LM13700](https://a.aliexpress.com/_AKLPgF) | DIP-16 | 1 шт |
 
 ## Потенциометры
