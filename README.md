@@ -13,7 +13,13 @@
 
 ### [Как собрать](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/How%20to%20assemble/README.md)
 
-### [GERBER для заказа плат](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/PCB)
+### [GERBER - Верхняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_PANEL.zip)
+
+### [GERBER - Основная плата](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_MOTHER%20MK3%20copy.zip)
+
+### [GERBER - Плата эффектов](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_EFX.zip)
+
+### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_DNO.zip)
 
 ### [Список комлектующих](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/BOM)
 
