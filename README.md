@@ -15,7 +15,7 @@
 
 ### [Список комлектующих](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/tree/main/BOM)
 
-#### [GERBER - Верхняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_PANEL.zip)
+##### [GERBER - Верхняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_PANEL.zip)
 
 ##### [GERBER - Основная плата](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_MOTHER%20MK3%20copy.zip)
 
