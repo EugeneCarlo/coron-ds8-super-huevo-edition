@@ -6,6 +6,8 @@
 Есть возможность расширения функционала за счет дополнительных модулей с другими эффектами
 
 ##### Модули с другими эффектами буду добавлять по мере возможностей<br>
+ 
+![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)<br>
 
 ### [Как заказать плату](https://github.com/EugeneCarlo/OVERLY-LOWERLY-Guitar-Pedal/blob/main/How%20to%20get%20PCB/README.md)
 
@@ -22,9 +24,6 @@
 ##### [GERBER - Плата эффектов](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_EFX.zip)
 
 ##### [GERBER - Нижняя панель](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/raw/main/PCB/Gerber_DNO.zip)
-
- 
-![CORON_DS8](https://github.com/EugeneCarlo/coron-ds8-super-huevo-edition/blob/main/Image/YwKnsgYQ7no.jpg)<br>
 
 ## Управление возможно:
 + С кнопки (подсветка кнопки отображает значение ручки decay)
